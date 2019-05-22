@@ -1,8 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Note: you must have npm installed. To check this. please run `npm -v`. If not, download from this [link](https://www.npmjs.com/get-npm)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Install all the dependencies necessary to run the app correctly.
 
 ### `npm start`
 
