@@ -1,3 +1,7 @@
+Track your readings !
+
+![](img.png)
+
 Note: you must have npm installed. To check this. please run `npm -v`. If not, download from this [link](https://www.npmjs.com/get-npm)
 
 ## Available Scripts
